@@ -25,6 +25,7 @@
 #include <stdbool.h>
 #include <xc.h>
 #include<math.h>
+#include <time.h>
 /* This section lists the other files that are included in this file.
  */
 
