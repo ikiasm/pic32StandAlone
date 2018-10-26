@@ -20,7 +20,8 @@
 /* Section: Included Files                                                    */
 /* ************************************************************************** */
 /* ************************************************************************** */
-
+//#include "aplicacion.h"
+#include "../../../pic32mx/4.8.3/include/float.h"
 #include <stdlib.h>
 #include <stdbool.h>
 #include <xc.h>
