@@ -24,6 +24,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <xc.h>
+#include<math.h>
 /* This section lists the other files that are included in this file.
  */
 
